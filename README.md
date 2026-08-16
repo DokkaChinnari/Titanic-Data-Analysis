@@ -379,13 +379,6 @@ Titanic-Data-Analysis/
 │
 ├── 📓 Titanic_Data_Analysis.ipynb
 ├── 📊 Titanic.csv
-├── 📸 screenshots/
-│   ├── dataset.png
-│   ├── survival_chart.png
-│   ├── gender_analysis.png
-│   ├── class_analysis.png
-│   └── age_analysis.png
-│
 └── 📄 README.md
 ```
 
