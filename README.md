@@ -289,7 +289,7 @@ Passenger fare is related to passenger class and can be used to explore socioeco
 Open your terminal or Command Prompt and run:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Titanic-Data-Analysis.git
+git clone https://github.com/DokkaChinnari/Titanic-Data-Analysis.git
 ```
 
 Replace `YOUR-USERNAME` with your GitHub username.
