@@ -368,49 +368,6 @@ pip install pandas matplotlib openpyxl numpy jupyter
 
 ---
 
-# 📸 Project Screenshots
-
-You can add screenshots of your notebook and graphs here.
-
-Create a folder:
-
-```text
-screenshots/
-```
-
-Then add images such as:
-
-```text
-screenshots/
-├── dataset.png
-├── survival_chart.png
-├── gender_analysis.png
-├── class_analysis.png
-└── age_analysis.png
-```
-
-Then add them to this README:
-
-```markdown
-## 📸 Project Screenshots
-
-### Dataset Preview
-
-![Dataset Preview](screenshots/dataset.png)
-
-### Survival Analysis
-
-![Survival Analysis](screenshots/survival_chart.png)
-
-### Gender Analysis
-
-![Gender Analysis](screenshots/gender_analysis.png)
-
-### Passenger Class Analysis
-
-![Passenger Class Analysis](screenshots/class_analysis.png)
-```
-
 ---
 
 # 📁 Repository Structure
